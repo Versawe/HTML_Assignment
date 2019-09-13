@@ -1,0 +1,118 @@
+body {
+    background-image: url("BG.png");
+}
+
+
+#menuBar {
+    align-content: center;
+    color: skyblue;
+
+
+}
+
+#headerText1 {
+    color: white;
+    font-style: italic;
+    position: absolute;
+    bottom: 1070px;
+    left: 395px;
+    font-family: Georgia;
+    margin-bottom: 20px;
+
+}
+
+#headerText2 {
+    color: white;
+    font-style: italic;
+    position: absolute;
+    font-family: Georgia;
+    bottom: 880px;
+    left: 395px;
+    margin-bottom: 20px;
+
+
+}
+
+#headerText3 {
+    color: white;
+    font-style: italic;
+    position: absolute;
+    font-family: Georgia;
+    bottom: 690px;
+    left: 395px;
+    margin-bottom: 20px;
+
+}
+
+#paragraphText1 {
+    color: white;
+    position: absolute;
+    bottom: 985px;
+    left: 395px;
+    font-size: 13px;
+    font-family: arial;
+    margin-top: 20px;
+
+}
+
+#paragraphText2 {
+    color: white;
+    position: absolute;
+    font-size: 13px;
+    font-family: arial;
+    bottom: 790px;
+    left: 395px;
+    margin-top: 20px;
+}
+
+#paragraphText3 {
+    color: white;
+    position: absolute;
+    font-size: 13px;
+    font-family: arial;
+    left: 395px;
+    bottom: 620px;
+    margin-top: 20px;
+}
+
+.bannerImage {
+    position: absolute;
+    bottom: 00px;
+    left: 00px;
+}
+
+.menuButtons1 {
+    position: absolute;
+    color: rgb(144, 171, 192);
+    left: 395px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.menuButtons2 {
+    position: absolute;
+    color: rgb(144, 171, 192);
+    left: 465px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.menuButtons3 {
+    position: absolute;
+    color: rgb(144, 171, 192);
+    left: 560px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+
+.container {
+    position: relative;
+
+}

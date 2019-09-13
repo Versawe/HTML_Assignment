@@ -1,0 +1,71 @@
+body
+{
+    background-image: url("BG.png");
+}
+
+
+#menuBar{
+   align-content: center;
+    color: skyblue;
+    
+    
+}
+
+#headerText{
+    color:white;
+    font-style: italic;
+    position: absolute;
+    bottom: 1070px;
+    left: 655px;
+    font-family: Georgia;
+    
+}
+
+#paragraphText{
+    color:white;
+    position: absolute;
+    bottom: 1010px;
+    left: 655px;
+    font-size: 13px;
+    font-family: arial; 
+
+}
+
+.bannerImage{
+    position: absolute;
+    bottom: 00px;
+    left:00px;
+}
+
+.menuButtons1{
+    position: absolute;
+    color: rgb(144,171,192);
+    left: 395px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+.menuButtons2{
+    position: absolute;
+    color: rgb(144,171,192);
+    left: 465px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+.menuButtons3{
+    position: absolute;
+    color: rgb(144,171,192);
+    left: 560px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.container{
+    position: relative;
+    
+}

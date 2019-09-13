@@ -1,0 +1,230 @@
+body {
+    background-image: url("BG.png");
+}
+
+
+#menuBar {
+    align-content: center;
+    color: skyblue;
+
+
+}
+
+#headerText1 {
+    color: white;
+    font-style: italic;
+    position: absolute;
+    bottom: 1110px;
+    left: 395px;
+    font-family: Georgia;
+
+}
+
+#headerText2 {
+    color: white;
+    font-style: italic;
+    position: absolute;
+    bottom: 855px;
+    left: 395px;
+    font-family: Georgia;
+
+}
+
+#headerText3 {
+    color: white;
+    font-style: italic;
+    position: absolute;
+    bottom: 740px;
+    left: 395px;
+    font-family: Georgia;
+
+}
+
+#paragraphText1 {
+    color: white;
+    position: absolute;
+    bottom: 940px;
+    left: 395px;
+    font-size: 13px;
+    font-family: arial;
+
+}
+
+#paragraphText2 {
+    color: white;
+    position: absolute;
+    bottom: 840px;
+    left: 395px;
+    font-size: 13px;
+    font-family: arial;
+
+}
+
+#paragraphText3 {
+    color: white;
+    position: absolute;
+    bottom: 720px;
+    left: 395px;
+    font-size: 13px;
+    font-family: arial;
+
+}
+
+.bannerImage {
+    position: absolute;
+    bottom: 00px;
+    left: 00px;
+}
+
+.iconsImage {
+    position: absolute;
+    bottom: 00px;
+    left: 00px;
+}
+
+.formBG {
+    position: absolute;
+    bottom: 00px;
+    left: 00px;
+}
+
+.menuButtons1 {
+    position: absolute;
+    color: rgb(144, 171, 192);
+    left: 395px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.menuButtons2 {
+    position: absolute;
+    color: rgb(144, 171, 192);
+    left: 465px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.menuButtons3 {
+    position: absolute;
+    color: rgb(144, 171, 192);
+    left: 560px;
+    bottom: 1240px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.formText {
+    position: absolute;
+    color: rgb(154, 210, 255);
+    font-size: 14px;
+    font-family: arial;
+    left: 410px;
+    bottom: 650px;
+
+}
+
+.dashedLine {
+    position: absolute;
+    color: white;
+    left: 410px;
+    bottom: 610px;
+    font-family: monospace;
+}
+
+.dashedLine2 {
+    position: absolute;
+    color: white;
+    left: 410px;
+    bottom: 545px;
+    font-family: monospace;
+}
+
+.dashedLine3 {
+    position: absolute;
+    color: white;
+    left: 410px;
+    bottom: 475px;
+    font-family: monospace;
+}
+
+.dashedLine4 {
+    position: absolute;
+    color: white;
+    left: 410px;
+    bottom: 405px;
+    font-family: monospace;
+}
+
+.formText2 {
+    position: absolute;
+    color: rgb(154, 210, 255);
+    font-size: 14px;
+    font-family: arial;
+    left: 410px;
+    bottom: 580px;
+
+}
+
+.formText3 {
+    position: absolute;
+    color: rgb(154, 210, 255);
+    font-size: 14px;
+    font-family: arial;
+    left: 410px;
+    bottom: 515px;
+
+}
+
+.formText4 {
+    position: absolute;
+    color: rgb(154, 210, 255);
+    font-size: 14px;
+    font-family: arial;
+    left: 410px;
+    bottom: 440px;
+
+}
+
+.formWindow {
+    position: absolute;
+    left: 925px;
+    bottom: 655px;
+    width: 17%;
+}
+
+.formWindow2 {
+    position: absolute;
+    left: 925px;
+    bottom: 435px;
+    width: 17%;
+}
+
+.formWindow3 {
+    position: absolute;
+    left: 925px;
+    bottom: 575px;
+    width: 17%;
+}
+
+.formWindow4 {
+    position: absolute;
+    left: 925px;
+    bottom: 505px;
+    width: 17%;
+}
+
+.submitButton {
+    position: absolute;
+    left: 1120px;
+    bottom: 365px;
+}
+
+.container {
+    position: relative;
+
+}
